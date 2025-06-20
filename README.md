@@ -18,11 +18,5 @@ The vision behind this project is to empower users with a censorship-resistant t
 - 🔔 Add notifications and reminders.
 - 📝 Store user-specific task history.
 
-## Contract Details
-> Deployed Address: **[Your contract address here]**
->  
-> Network: Core Testnet  
->  
-> Owner Address: **[Your address here]**
-0x6c1290Fb527dF921436dcF34251b7AecBC83E568
+## Contract Details: 0x6c1290Fb527dF921436dcF34251b7AecBC83E568
 > ![Screenshot 2025-06-20 111024](https://github.com/user-attachments/assets/1bd7cce7-53cf-402f-968b-f8043e59a9a6)
